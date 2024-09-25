@@ -1,0 +1,1 @@
+select type_desc, port from sys.tcp_endpoints

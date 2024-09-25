@@ -1,0 +1,22 @@
+step1:
+run the "SQLServer22AlertsScriptPart1.sql" in the target instance.
+
+
+step2:
+copy and paste the "SQLServer22AlertsScriptPart2.ps1" in some safe location.
+
+
+step3:
+create a file called "RunScript.vbs" with notepad
+add the following commands in it (modify the path of your file location)
+
+Set WshShell = CreateObject("WScript.Shell")
+WshShell.Run "powershell.exe -ExecutionPolicy Bypass -File ""path\SQLServer22AlertsScriptPart2.ps1""", 0, False
+
+then save it in the same safe location.
+
+
+step4:
+go to task schedular and create a task
+in the "Action" section, under "program/script", enter the path of the "RusScript.vbs".
+and enter the other parameters based on your requirement.

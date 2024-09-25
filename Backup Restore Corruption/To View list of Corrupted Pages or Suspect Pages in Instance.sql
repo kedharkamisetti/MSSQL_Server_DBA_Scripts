@@ -1,0 +1,1 @@
+select * from msdb.dbo.suspect_pages

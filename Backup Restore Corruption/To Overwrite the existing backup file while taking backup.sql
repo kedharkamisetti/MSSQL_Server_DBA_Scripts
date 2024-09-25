@@ -1,0 +1,1 @@
+backup database databasename to disk = 'path\filename.bak' with init

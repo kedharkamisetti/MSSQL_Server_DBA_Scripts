@@ -1,0 +1,1 @@
+SELECT * FROM sys.servers WHERE is_linked = 1

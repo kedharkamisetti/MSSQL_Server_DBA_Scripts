@@ -1,0 +1,1 @@
+select state_desc, role from sys.database_mirroring_endpoints

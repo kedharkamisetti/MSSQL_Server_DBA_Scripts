@@ -1,0 +1,2 @@
+alter database databasename
+set partner force_service_allow_data_loss

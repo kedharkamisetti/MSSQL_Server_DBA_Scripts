@@ -1,0 +1,21 @@
+Error 18452: Login failed. The login is from an untrusted domain and cannot be used with Windows authentication.
+Error 18470: Login failed for user 'domain\user'. Reason: An attempt to login using SQL Server authentication failed.
+Error 207: Invalid column name '...'.
+Error 1222: Lock request time out period exceeded
+Error 1204: The instance of the SQL Server Database Engine cannot process this request because it is in the process of shutting down.
+Error 3041: BACKUP LOG cannot be performed because there is no current database backup.
+Error 3169: The backup set holds a backup of a database other than the one that is currently selected for RESTORE.
+Error 8928: Object ID ... in database ... has been corrupted.
+Error 8961: A page has been corrupted.
+Error 1106: Failed to retrieve text for this error. Reason: 15100
+Error 17204: File '...' is not a valid database file.
+Error 936: The log for database '...' is not available.
+Error 3014: The backup of the file or filegroup ... is failed.
+Error 18456: Login failed for user '...'.
+Error 3314: The redo log scan is incomplete due to a failure to read the log file.
+Error 22022: The SQL Server Agent job was not able to start.
+Error 14252: Cannot add, update, or delete a job (or its steps) because the job is already running.
+Error 701: There is insufficient system memory to run this query.
+Error 1105: Could not allocate space for object '...' in database '...' because the filegroup '...' is full.
+Error 9002: The transaction log for database '...' is full due to 'LOG_BACKUP'.
+Error 941: Cannot open backup device '...'. Operating system error 3(The system cannot find the path specified.).

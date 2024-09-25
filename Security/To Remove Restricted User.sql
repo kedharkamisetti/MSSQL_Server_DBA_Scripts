@@ -1,0 +1,7 @@
+Use [databasename]
+
+ALTER DATABASE [databasename] SET SINGLE_USER WITH ROLLBACK IMMEDIATE
+GO
+
+ALTER DATABASE [databasename] SET MULTI_USER
+GO

@@ -1,0 +1,1 @@
+insert into linkedservername.databasename.schemaname.tablename values (row1value, row2value,...)

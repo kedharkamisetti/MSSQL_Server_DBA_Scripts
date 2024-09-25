@@ -1,0 +1,123 @@
+Alt+Break ----------------------- Query - Cancel Executing Query
+Alt+Down Arrow ------------------ Editing - Move Selected Lines Down
+Alt+Right Arrow ----------------- Intellisense - Complete Word
+Alt+Up Arrow -------------------- Editing - Move Selected Lines Up
+Alt+D --------------------------- Main Menu - Debug
+Alt+E --------------------------- Main Menu - Edit
+Alt+F --------------------------- Main Menu - File
+Alt+H --------------------------- Main Menu - Help
+Alt+N --------------------------- Navigation - New query window
+Alt+P --------------------------- Main Menu - Project
+Alt+Q --------------------------- Main Menu - Query
+Alt+T --------------------------- Main Menu - Tools
+Alt+V --------------------------- Main Menu - View
+Alt+W --------------------------- Main Menu - Window
+Alt+X --------------------------- Query - Execute
+Alt+F1 -------------------------- Query Shortcut - sp_help
+Alt+F4 -------------------------- Navigation - Exit
+Alt+F5 -------------------------- Debug - Start Debugging
+Alt+F6 -------------------------- Navigation - Move between windows
+Atl+F7 -------------------------- Navigation - Move between windows - popup
+Alt+F8 -------------------------- Open Server in Object Explorer
+Alt+F9,B ------------------------ Debug - Function Breakpoint
+Ctrl+A -------------------------- Editing - Select All
+Ctrl+C -------------------------- Editing - Copy
+Ctrl+D -------------------------- Query - Results to Grid
+Ctrl+E -------------------------- Query - Execute
+Ctrl+F -------------------------- Search - Quick Find
+Ctrl+G -------------------------- Navigation - Go To
+Ctrl+H -------------------------- Search - Quick Replace
+Ctrl+I -------------------------- Search - Incremental Search
+Ctrl+J -------------------------- Intellisense - List Members
+Ctrl+L -------------------------- Query - Display Estimated Execution Plan
+Ctrl+M -------------------------- Query - Include Actual Execution Plan (toggle)
+Ctrl+N -------------------------- Query - New Query with Current Connection
+Ctrl+O -------------------------- Open File
+Ctrl+P -------------------------- Print
+Ctrl+Q -------------------------- Search - Quick Launch
+Ctrl+R -------------------------- Query - Show / Hide Results Pane (toggle)
+Ctrl+S -------------------------- Query - Save query
+Ctrl+T -------------------------- Query - Results To Text
+Ctrl+U -------------------------- Navigation - Change database
+Ctrl+V -------------------------- Editing - Paste
+Ctrl+W -------------------------- Editing - Select word
+Ctrl+X -------------------------- Editing - Cut
+Ctrl+Y -------------------------- Editing - Redo
+Ctrl+Z -------------------------- Editing - Undo
+Ctrl+- -------------------------- Navigation - Navigate Query Windows Backward
+Ctrl+\,Ctrl+E ------------------- Window - Error List
+Ctrl+1 -------------------------- Query Shortcut - sp_who
+Ctrl+2 -------------------------- Query Shortcut - sp_lock
+Ctrl+Alt+A ---------------------- Window - Activity Monitor
+Ctrl+Alt+B ---------------------- Debug - Breakpoints Window
+Ctrl+Alt+G ---------------------- Window - Registered Servers
+Ctrl+Alt+I ---------------------- Debug - Immediate Window
+Ctrl+Alt+K ---------------------- Window - Task List
+Ctrl+Alt+L ---------------------- Window - Solution Explorer
+Ctrl+Alt+O ---------------------- Window - Output
+Ctrl+Alt+P ---------------------- Tools - Trace Query in SQL Server Profiler
+Ctrl+Alt+R ---------------------- Window - Web Browser
+Ctrl+Alt+T ---------------------- Window - Template Explorer
+Ctrl+Alt+X ---------------------- Window - Toolbox
+Ctrl+Alt+Space ------------------ Intellisense - Toggle Completion Mode
+Ctrl+Alt+F1 --------------------- Tools - Add and Remove Help Content
+Ctrl+Alt+F2 --------------------- Tools - Resource Center
+Ctrl+B,Ctrl+I ------------------- Intellisense - Enabled
+Ctrl+Delete --------------------- Editing - Delete through the end of the line
+Ctrl+End ------------------------ Editing - End of query window text
+Ctrl+F4 ------------------------- Navigation - Disconnect and close query window
+Ctrl+F5 ------------------------- Query - Parse
+Ctrl+Home ----------------------- Editing - Top of query window text
+Ctrl+K,Ctrl+\ ------------------- Editing - Delete Horizontal White Space
+Ctrl+K,Ctrl+B ------------------- Tools - Codes Snippets Manager
+Ctrl+K,Ctrl+C ------------------- Editing - Comment Selection
+Ctrl+K,Ctrl+F ------------------- Bookmarks - New Folder
+Ctrl+K,Ctrl+H ------------------- Bookmarks - Add Task List Shortcut
+Ctrl+K,Ctrl+I ------------------- Intellisense - Quick Info
+Ctrl+K,Ctrl+K ------------------- Bookmarks - Toggle Bookmark
+Ctrl+K,Ctrl+L ------------------- Bookmarks - Clear
+Ctrl+K,Ctrl+N ------------------- Bookmarks - Next Bookmark
+Ctrl+K,Ctrl+P ------------------- Bookmarks - Previous
+Ctrl+K,Ctrl+S ------------------- Intellisense - Surround Width
+Ctrl+K,Ctrl+U ------------------- Editing - Uncomment Selection
+Ctrl+K,Ctrl+W ------------------- Window - Bookmark Explorer
+Ctrl+K,Ctrl+X ------------------- Tools - Insert Snippet
+Ctrl+Shift+A -------------------- Project - Add New Item
+Ctrl+Shift+F -------------------- Query - Results to File
+Ctrl+Shift+H -------------------- Search - Replace in Files
+Ctrl+Shift+L -------------------- Editing - Make Lowercase
+Ctrl+Shift+M -------------------- Query - Specify Values for Template Parameters
+Ctrl+Shift+N -------------------- Project - New
+Ctrl+Shift+O -------------------- Open Project Solution
+Ctrl+Shift+Q -------------------- Tools - Design Query in Editor
+Ctrl+Shift+R -------------------- Intellisense - Refresh Local Cache
+Ctrl+Shift+S -------------------- Query - Save All
+Ctrl+Shift+U -------------------- Editing - Make Uppercase
+Ctrl+Shift+V -------------------- Editing - Cycle Clipboard Ring
+Ctrl+Shift+Del ------------------ Editing - Clear the active Editor pane
+Ctrl+Shift+End ------------------ Editing - Select all text from cursor to end
+Ctrl+Shift and arrow keys ------- Editing - Select section of text
+Ctrl+Shift+F9 ------------------- Debug - Delete All Breakpoints
+Ctrl+Shift+Home ----------------- Editing - Select all text from cursor to top
+Ctrl+Shift+Space ---------------- Intellisense - Parameter Info
+Ctrl+Shift+K,Ctrl+Shift+N ------- Bookmarks - Next Bookmark in Folder
+Ctrl+Shift+K,Ctrl+Shift+P ------- Bookmarks - Previous Bookmark in Folder
+Del ----------------------------- Editing - Delete text
+F1 ------------------------------ Help
+F3 ------------------------------ Search - Repeat Last Search
+F4 ------------------------------ Window - Properties Window
+F5 ------------------------------ Query - Execute
+F6 ------------------------------ Navigation - Move between windows Next Pane
+F7 ------------------------------ Window - Object Explorer Details
+F8 ------------------------------ Window - Object Explorer
+F9 ------------------------------ Debug - Toggle Breakpoint
+F10 ----------------------------- Debug - Step Over
+F11 ----------------------------- Debug - Step Into
+Shift+Alt+A --------------------- Project - Add Existing Item
+Shift+Alt+Enter ----------------- Navigation - Full Screen
+Shift+Alt+S --------------------- Query - Include Client Statistics
+Shift+F1 ------------------------ Help
+Shift+F3 ------------------------ Search - Repeat Last Search
+Shift+F6 ------------------------ Navigation - Move between windows Previous Pane
+Shift+Tab ----------------------- Editing - Indent decrease
+Tab ----------------------------- Editing - Indent increase

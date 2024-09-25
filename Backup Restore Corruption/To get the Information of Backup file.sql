@@ -1,0 +1,1 @@
+restore headeronly from disk = 'path\filename.bak'

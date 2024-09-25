@@ -1,0 +1,1 @@
+alter database databasename set partner resume

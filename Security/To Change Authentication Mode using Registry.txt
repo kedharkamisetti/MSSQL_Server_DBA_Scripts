@@ -1,0 +1,5 @@
+--go to this location in registries 
+--HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft SQL Server\Your_Instance_Name\MSSQLServer
+--identify login_mode and edit the value
+--1 is for windows authentication and 2 is for sql server authentication
+--restart the instance to apply this change.

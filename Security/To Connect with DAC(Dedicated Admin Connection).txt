@@ -1,0 +1,4 @@
+--add "admin:" in the beginning of the instance name
+--ex: admin:machinename\instancename
+
+--note: dac is a single connection.

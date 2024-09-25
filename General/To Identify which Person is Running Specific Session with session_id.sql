@@ -1,0 +1,1 @@
+select * from sys.dm_exec_sessions where session_id = session_id

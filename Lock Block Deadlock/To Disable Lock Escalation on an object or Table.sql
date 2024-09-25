@@ -1,0 +1,1 @@
+alter table tablename set (lock_escalation = disable)

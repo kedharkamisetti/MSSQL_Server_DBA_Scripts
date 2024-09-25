@@ -1,0 +1,1 @@
+alter availability group availabilitygroupname failover;

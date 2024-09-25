@@ -1,0 +1,32 @@
+Daily Checklist:
+1) Backups
+2) SQL Server Error Logs
+3) SQL Server Agent Jobs
+4) HA or DR Logs
+5) Shift Handover (New/Pending Tickets)
+6) Implementing planned Change Tickets
+
+Weekly Checklist:
+1) Integrity Checks (DBCC CHECKDB)
+2) Index Maintenance
+3) Updation of Statistics
+4) Cycle SQL Server Error Logs
+5) Reporting of Tickets Handled
+6) Planning of Change Tickets
+7) If any Weekly Meetings, then Prepare MOM (Minutes of Meeting).
+8) Attending CAB Meetings and taking approvals for Changes.
+
+Monthly Checklist:
+1) Backup Validation Test.
+2) Capacity Planning: Disk, CPU, and Memory.
+3) Plan if any Security Patches or Critical Hotfixes are released.
+4) Report on overall Uptime/Downtime
+
+Quarter Checklist:
+1) DR Test
+2) Check who all have SYSADMIN permission and remove unwanted logins having this permission.
+3) SOX Audit Standard
+
+Yearly Checklist:
+1) Licensing Validation (if it is Volume Based Licensing)
+2) Service Pack validation and applying newly released SPs.

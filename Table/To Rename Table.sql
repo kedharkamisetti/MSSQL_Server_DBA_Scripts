@@ -1,0 +1,1 @@
+exec sp_rename 'schema.old_table_name', 'new_table_name'

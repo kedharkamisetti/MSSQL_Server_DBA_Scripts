@@ -1,0 +1,1 @@
+alter table table_name add column_name datatype

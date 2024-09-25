@@ -1,0 +1,1 @@
+alter database databasename set recovery full/simple/bulk_logged

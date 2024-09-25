@@ -1,0 +1,1 @@
+select * from fn_dblog(null, null)

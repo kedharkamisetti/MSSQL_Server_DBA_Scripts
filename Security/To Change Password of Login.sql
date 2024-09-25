@@ -1,0 +1,1 @@
+alter login loginname with password = 'newpassword'

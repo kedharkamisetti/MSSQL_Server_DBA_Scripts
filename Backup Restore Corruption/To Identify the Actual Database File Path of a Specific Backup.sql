@@ -1,0 +1,1 @@
+restore filelistonly from disk = 'path\filename.bak'

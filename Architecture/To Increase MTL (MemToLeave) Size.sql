@@ -1,0 +1,3 @@
+--go to configuration manager and add the following startup parameter
+-gsizeinmb
+--ex: -g4096

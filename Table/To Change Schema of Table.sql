@@ -1,0 +1,1 @@
+alter schema newschema transfer oldschema.tablename

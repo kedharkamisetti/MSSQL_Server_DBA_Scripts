@@ -1,0 +1,10 @@
+SELECT 'ALTER AVAILABILITY GROUP',NAME + ' '+'FAILOVER' FROM
+(SELECT AG.NAME
+FROM SYS.DM_HADR_AVAILABILITY_REPLICA_STATES AS ARS
+INNER JOIN SYS.AVAILABILITY_REPLICAS AS AR
+    ON ARS.REPLICA_ID = AR.REPLICA_ID
+INNER JOIN SYS.AVAILABILITY_GROUPS AS AG 
+    ON ARS.GROUP_ID = AG.GROUP_ID
+WHERE ARS.ROLE_DESC = 'Primary' )  TEMP
+
+--Note:Execute the statements from the Node where you want to move the AG groups.In my case i want to move to node2 so i have executed the statements from Node2.
